@@ -1,4 +1,4 @@
-# aku
+# Aku
 Measuring and reporting of sounds
 
 
@@ -10,3 +10,4 @@ Measuring and reporting of sounds
 ### ESP32 
 ### MQTT
 ### INMP441 mic
+
