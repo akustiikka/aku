@@ -9,5 +9,7 @@ Measuring and reporting of sounds
 ### ESPHOME 
 ### ESP32 
 ### MQTT
-### INMP441 mic
+### INMP441  / sph0645 / isc-43434 : mems mics
 
+
+## Spectroid 
