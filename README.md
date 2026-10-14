@@ -35,13 +35,13 @@ Sources of noise : devices
 
 # Modus operandi 
 * Example of 2026-10-13 and 
- * Continous LF bass above my bed overnight
- * Neighbour J hears some noise from apartment below
- * J starts to walk around in his apartment
- * noises of moving of items, walking around
- * you can also hear clicks, possibly electricity switches (mains). These might coincidence near or at the same time with large thumb (made by foot)  
- * Spectroid shows that amplitudes of LF frequencies start to rise, frequency hopping. This happens in inaudible frequency range (<22hz)
- * Continuous spikes with high amplitude, freqs below 100Hz. These sounds are audible.
- * Funny part, frequent small steps. Maybe carrying something heavy .. or the steps are for mimicing child walk or both
- * Phyphox app, phone mounted to the cealing with magnet starts to show invidual spikes below 30hz, especially 9-15 and 30 Hz
- * *Spectroid* (Airborne sound) and *Phyphox* (physical vibrations) show the same frequencies !!!
+  * Continous LF bass above my bed overnight
+  * Neighbour J hears some noise from apartment below
+  * J starts to walk around in his apartment
+  * noises of moving of items, walking around
+  * you can also hear clicks, possibly electricity switches (mains). These might coincidence near or at the same time with large thumb (made by foot)  
+  * Spectroid shows that amplitudes of LF frequencies start to rise, frequency hopping. This happens in inaudible frequency range (<22hz)
+  * Continuous spikes with high amplitude, freqs below 100Hz. These sounds are audible.
+  * Funny part, frequent small steps. Maybe carrying something heavy .. or the steps are for mimicing child walk or both
+  * Phyphox app, phone mounted to the cealing with magnet starts to show invidual spikes below 30hz, especially 9-15 and 30 Hz
+  * *Spectroid* (Airborne sound) and *Phyphox* (physical vibrations) show the same frequencies !!!
