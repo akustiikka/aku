@@ -1,5 +1,7 @@
 # Aku
-Measuring and reporting of sounds
+This started as a project to measure noise from upstairs neighbour walking all the time in his apartment. Noise was so loud that it prevented sleeping. After complaining about the noise things got worse. Later I found out that he/she had systemical plan   to use LF noise .... So this is a story about how to measure and report such things and  
+ 
+Measuring and reporting of sounds 
 Sources of noise
 - counting footfall in apartments or collecting evidence
 - intentional LF noise harassment 
@@ -25,9 +27,16 @@ Sources of noise
 ### ESP32 (wifi)
 ### MQTT
 ### INMP441  / sph0645 / isc-43434 : mems mics
+
 # Android phones and tabs : accel and mics
 ## Spectroid app (Android) 
 ## Phyphox app (Android)
+## USB Audio Recorder Pro (Android)
+
+# Measurements
+
+# Modus operandi 
+# Example of 2026-10-13 and 
 
 
 
