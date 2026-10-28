@@ -49,15 +49,18 @@ Sources of noise : devices
 * Night time version
   *  Between 3-6 AM , usually at 5 AM neighbour J start walking around. Dragging noises, audible thump sounds. Frequency pics here
  
-Examples 
+# Examples 
 
 * Spectroid Acceleration measurements via HTTP from android phone
   *  FFT
   *  Accel in Z -axis  (AccZ)
+  *  Left side, measurements made from AccZ data, made by powershell script, send to HA via MQTT
 <img width="2500" height="1230" alt="image" src="https://github.com/user-attachments/assets/7989e2a5-5992-4434-8efc-8bd66b9c5258" />
+
 
 * SLM measurements with ESP32 and https://github.com/stas-sl/esphome-sound-level-meter
 <img width="790" height="1120" alt="image" src="https://github.com/user-attachments/assets/deed8e85-14e0-45a6-b711-7157f079a1b1" />
+
 
 * FFT made from AccZ data with Python script 
 <img width="995" height="905" alt="image" src="https://github.com/user-attachments/assets/8925f38d-8c8e-48e2-8b9d-9558fbd3a01c" />
