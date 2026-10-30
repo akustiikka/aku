@@ -30,6 +30,10 @@ Sources of noise : devices
   * Spectroid app (Android) 
   * Phyphox app (Android)
   * USB Audio Recorder Pro (Android)
+ 
+* Windows Desktop (win11) 
+  * scrcpy.exe (tool for android to remote mirror your android screen to windows) and adb.exe (android tool for debugging  
+  * OBS Studio (app for recording Windows screen)   
 
 * Measurements
 
@@ -64,3 +68,11 @@ Sources of noise : devices
 
 * FFT made from AccZ data with Python script 
 <img width="995" height="905" alt="image" src="https://github.com/user-attachments/assets/8925f38d-8c8e-48e2-8b9d-9558fbd3a01c" />
+
+d
+* Actual Measurements ( no extra noise) 
+  * Spectroid @ bedroom : So silent 2026-10-30 6 AM
+  <img width="1080" height="2108" alt="Screenshot_20261030_171821_Gallery" src="https://github.com/user-attachments/assets/cd5f488e-12e3-4acd-9be8-40001fc06677" />
+  <img width="1080" height="2108" alt="Screenshot_20261030_171806_Gallery" src="https://github.com/user-attachments/assets/206c69b0-af29-48d6-aa2c-bc32502cb238" />
+  * Usually (video here)    
+* 
