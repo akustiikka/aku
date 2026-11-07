@@ -76,3 +76,6 @@ d
   <img width="1080" height="2108" alt="Screenshot_20261030_171806_Gallery" src="https://github.com/user-attachments/assets/206c69b0-af29-48d6-aa2c-bc32502cb238" />
   * Usually (video here)    
 * 
+
+Example of multifrequency ceiling vibrations
+<img width="1320" height="1200" alt="a71_10 0 0 61_AccZ_20261106_121128" src="https://github.com/user-attachments/assets/49e672dc-d9f0-4511-96a5-4c0bddd732f0" />
