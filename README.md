@@ -79,3 +79,8 @@ d
 
 Example of multifrequency ceiling vibrations
 <img width="1320" height="1200" alt="a71_10 0 0 61_AccZ_20261106_121128" src="https://github.com/user-attachments/assets/49e672dc-d9f0-4511-96a5-4c0bddd732f0" />
+
+
+
+~3Hz spike in ceiling vibration and also in sound ???!??
+<img width="1320" height="2280" alt="a71_10 0 0 61_AccZ_20261110_183105" src="https://github.com/user-attachments/assets/2b484ce0-b454-48fa-9965-f429663aa03f" />
