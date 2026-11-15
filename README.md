@@ -70,23 +70,19 @@ Sources of noise : devices
 * FFT made from AccZ data with Python script 
 <img width="995" height="905" alt="image" src="https://github.com/user-attachments/assets/8925f38d-8c8e-48e2-8b9d-9558fbd3a01c" />
 
-d
+
 
 Example of multifrequency ceiling vibrations
 <img width="1320" height="1200" alt="a71_10 0 0 61_AccZ_20261106_121128" src="https://github.com/user-attachments/assets/49e672dc-d9f0-4511-96a5-4c0bddd732f0" />
 
 
 
-~3Hz spike in ceiling vibration and also in sound ???!??
+~3Hz spike in ceiling vibration and also in sound ( i think this was just a coincidence) ???!??
 <img width="1320" height="2280" alt="a71_10 0 0 61_AccZ_20261110_183105" src="https://github.com/user-attachments/assets/2b484ce0-b454-48fa-9965-f429663aa03f" />
 
 Live Ceiling and Mic monitoring with FFT 
 <img width="1402" height="1147" alt="image" src="https://github.com/user-attachments/assets/87a22a2c-e96b-4138-b0ae-80fec25726ce" />
 
-* Actual Measurements ( no extra noise) 
-  * Spectroid @ bedroom : So silent 2026-10-30 6 AM
-  * Usually (video here)    
-* 
 
 
 * Examples of almost no structural vibration
