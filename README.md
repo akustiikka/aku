@@ -72,15 +72,13 @@ Sources of noise : devices
 
 
 
-Example of multifrequency ceiling vibrations
+* Example of multifrequency ceiling vibrations
 <img width="1320" height="1200" alt="a71_10 0 0 61_AccZ_20261106_121128" src="https://github.com/user-attachments/assets/49e672dc-d9f0-4511-96a5-4c0bddd732f0" />
 
-
-
-~3Hz spike in ceiling vibration and also in sound ( i think this was just a coincidence) ???!??
+* ~3Hz spike in ceiling vibration and also in sound ( i think this was just a coincidence) ???!??
 <img width="1320" height="2280" alt="a71_10 0 0 61_AccZ_20261110_183105" src="https://github.com/user-attachments/assets/2b484ce0-b454-48fa-9965-f429663aa03f" />
 
-Live Ceiling and Mic monitoring with FFT 
+* Live Ceiling and Mic monitoring with FFT 
 <img width="1402" height="1147" alt="image" src="https://github.com/user-attachments/assets/87a22a2c-e96b-4138-b0ae-80fec25726ce" />
 
 
@@ -88,6 +86,7 @@ Live Ceiling and Mic monitoring with FFT
 * Examples of almost no structural vibration
   * "Live" View
   <img width="1501" height="1085" alt="image" src="https://github.com/user-attachments/assets/e844867d-0157-4ee7-92d2-3e46f1c0803f" />
+  * 300s summary
   <img width="563" height="968" alt="image" src="https://github.com/user-attachments/assets/3a4779f4-3a47-4d07-9c18-0eecfb087fd0" / >
   
   * Long term RMS 
