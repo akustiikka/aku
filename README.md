@@ -93,5 +93,13 @@ Sources of noise : devices
   <img width="1587" height="727" alt="image" src="https://github.com/user-attachments/assets/9454b5ec-f2dd-49bc-809e-070f4e57a954" />
     * and Range (= AccZ min and max difference) trend .. Seems that this works as a general vibration indicator
   <img width="1717" height="1133" alt="image" src="https://github.com/user-attachments/assets/e1343ee8-4677-4284-8c02-fada0dc47544" />
+    * Different RMS
+   <img width="702" height="577" alt="image" src="https://github.com/user-attachments/assets/1f376bf2-ac30-47fb-837f-95ec4c209b08" />
+    * One range indicator (AccZ min and max that is ) 
+   <img width="687" height="527" alt="image" src="https://github.com/user-attachments/assets/9107ac2f-9f8a-4268-a944-9f04c72d0753" />
+    * Ok, dominating frequencies also change, more intentionally made structural vibrations, less "random" frequencies
+    ![Uploading image.png…]()
+
+
 
 
