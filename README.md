@@ -71,10 +71,6 @@ Sources of noise : devices
 <img width="995" height="905" alt="image" src="https://github.com/user-attachments/assets/8925f38d-8c8e-48e2-8b9d-9558fbd3a01c" />
 
 d
-* Actual Measurements ( no extra noise) 
-  * Spectroid @ bedroom : So silent 2026-10-30 6 AM
-  * Usually (video here)    
-* 
 
 Example of multifrequency ceiling vibrations
 <img width="1320" height="1200" alt="a71_10 0 0 61_AccZ_20261106_121128" src="https://github.com/user-attachments/assets/49e672dc-d9f0-4511-96a5-4c0bddd732f0" />
@@ -87,6 +83,10 @@ Example of multifrequency ceiling vibrations
 Live Ceiling and Mic monitoring with FFT 
 <img width="1402" height="1147" alt="image" src="https://github.com/user-attachments/assets/87a22a2c-e96b-4138-b0ae-80fec25726ce" />
 
+* Actual Measurements ( no extra noise) 
+  * Spectroid @ bedroom : So silent 2026-10-30 6 AM
+  * Usually (video here)    
+* 
 
 
 * Examples of almost no structural vibration
