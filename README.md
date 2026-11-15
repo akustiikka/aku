@@ -47,8 +47,9 @@ Sources of noise : devices
   * Spectroid shows that amplitudes of LF frequencies start to rise, frequency hopping. This happens in inaudible frequency range (<22hz)
   * Continuous spikes with high amplitude, freqs below 100Hz. These sounds are audible.
   * Funny part, frequent small steps. Maybe carrying something heavy .. or the steps are for mimicing child walk or both
-  * Phyphox app, phone mounted to the cealing with magnet starts to show invidual spikes below 30hz, especially 9-15 and 30 Hz
-  * *Spectroid* (Airborne sound) and *Phyphox* (physical vibrations) show the same frequencies !!!
+  * Phyphox app, phone mounted to the cealing with magnet starts to show invidual spikes below 30hz, especially 1-3 Hz and 30, 40 or 50 Hz
+  * From the balcony you might see that Neighbour J goes running, stepping sounds continue but step related vibrations in the ceiling are not in the same scale
+  * *Spectroid* (Airborne sound) and *Phyphox* (physical vibrations) show the same frequencies !!! (or not : Check this one) 
 
 * Night time version
   *  Between 3-6 AM , usually at 5 AM neighbour J start walking around. Dragging noises, audible thump sounds. Frequency pics here
@@ -72,8 +73,6 @@ Sources of noise : devices
 d
 * Actual Measurements ( no extra noise) 
   * Spectroid @ bedroom : So silent 2026-10-30 6 AM
-  <img width="1080" height="2108" alt="Screenshot_20261030_171821_Gallery" src="https://github.com/user-attachments/assets/cd5f488e-12e3-4acd-9be8-40001fc06677" />
-  <img width="1080" height="2108" alt="Screenshot_20261030_171806_Gallery" src="https://github.com/user-attachments/assets/206c69b0-af29-48d6-aa2c-bc32502cb238" />
   * Usually (video here)    
 * 
 
@@ -84,3 +83,6 @@ Example of multifrequency ceiling vibrations
 
 ~3Hz spike in ceiling vibration and also in sound ???!??
 <img width="1320" height="2280" alt="a71_10 0 0 61_AccZ_20261110_183105" src="https://github.com/user-attachments/assets/2b484ce0-b454-48fa-9965-f429663aa03f" />
+
+Live Ceiling and Mic monitoring with FFT 
+<img width="1402" height="1147" alt="image" src="https://github.com/user-attachments/assets/87a22a2c-e96b-4138-b0ae-80fec25726ce" />
