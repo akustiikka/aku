@@ -98,7 +98,8 @@ Sources of noise : devices
     * One range indicator (AccZ min and max that is ) 
    <img width="687" height="527" alt="image" src="https://github.com/user-attachments/assets/9107ac2f-9f8a-4268-a944-9f04c72d0753" />
     * Ok, dominating frequencies also change, more intentionally made structural vibrations, less "random" frequencies
-    ![Uploading image.png…]()
+    <img width="707" height="485" alt="image" src="https://github.com/user-attachments/assets/5c20542f-fd49-4f76-88d3-d55bb878e328" />
+
 
 
 
