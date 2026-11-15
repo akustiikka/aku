@@ -90,7 +90,8 @@ Live Ceiling and Mic monitoring with FFT
   <img width="1501" height="1085" alt="image" src="https://github.com/user-attachments/assets/e844867d-0157-4ee7-92d2-3e46f1c0803f" />
   <img width="563" height="968" alt="image" src="https://github.com/user-attachments/assets/3a4779f4-3a47-4d07-9c18-0eecfb087fd0" / >
   
-  * Long term RMS and Range (from AccZ min and max difference) 
+  * Long term RMS 
   <img width="1587" height="727" alt="image" src="https://github.com/user-attachments/assets/9454b5ec-f2dd-49bc-809e-070f4e57a954" />
+  * and Range (= AccZ min and max difference) trend
   <img width="1717" height="1133" alt="image" src="https://github.com/user-attachments/assets/e1343ee8-4677-4284-8c02-fada0dc47544" />
 
