@@ -55,7 +55,7 @@ Sources of noise : devices
   *  Between 3-6 AM , usually at 5 AM neighbour J start walking around. Dragging noises, audible thump sounds. Frequency pics here
  
 # Examples 
-
+  # General Examples 
 * Spectroid Acceleration measurements via HTTP from android phone
   *  FFT
   *  Accel in Z -axis  (AccZ)
@@ -78,10 +78,10 @@ Sources of noise : devices
 * ~3Hz spike in ceiling vibration and also in sound ( i think this was just a coincidence) ???!??
 <img width="1320" height="2280" alt="a71_10 0 0 61_AccZ_20261110_183105" src="https://github.com/user-attachments/assets/2b484ce0-b454-48fa-9965-f429663aa03f" />
 
-* Live Ceiling and Mic monitoring with FFT 
+* Live Ceiling vibrations and Mic monitoring with FFT 
 <img width="1402" height="1147" alt="image" src="https://github.com/user-attachments/assets/87a22a2c-e96b-4138-b0ae-80fec25726ce" />
 
-
+# No extra vibration examples 
 
 * Examples of almost no structural vibration
   * "Live" View
