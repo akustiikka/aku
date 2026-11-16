@@ -102,4 +102,4 @@ Sources of noise : devices
 
 
 
-    <img width="2052" height="847" alt="image" src="https://github.com/user-attachments/assets/9c494527-1b62-42dc-8844-6a03abece5fe" />
+   <img width="2052" height="847" alt="image" src="https://github.com/user-attachments/assets/9c494527-1b62-42dc-8844-6a03abece5fe" />
