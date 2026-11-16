@@ -104,4 +104,5 @@ Sources of noise : devices
    * Same time period, two vibration measurements and audio measurement
    <img width="2052" height="847" alt="image" src="https://github.com/user-attachments/assets/9c494527-1b62-42dc-8844-6a03abece5fe" />
     * Ai analysis
-       <img width="471" height="575" alt="image" src="https://github.com/user-attachments/assets/94b19ad7-8dd2-44e6-b8b8-063b15f7f248" />
+     
+       <img width="555" height="695" alt="image" src="https://github.com/user-attachments/assets/94b19ad7-8dd2-44e6-b8b8-063b15f7f248" />
