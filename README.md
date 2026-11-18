@@ -70,6 +70,9 @@ Sources of noise : devices
 * FFT made from AccZ data with Python script 
 <img width="995" height="905" alt="image" src="https://github.com/user-attachments/assets/8925f38d-8c8e-48e2-8b9d-9558fbd3a01c" />
 
+* Correlation with LF Noises and Ceiling vibration when measuring steps
+<img width="1400" height="812" alt="image" src="https://github.com/user-attachments/assets/1d79ec87-6296-4647-a0ab-90f776292b65" />
+
 
 
 * Example of multifrequency ceiling vibrations
